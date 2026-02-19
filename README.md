@@ -14,4 +14,5 @@ I build things that do work automatically — data pipelines, agents, integratio
 
 - 🌐 [daniel-butler.com](https://daniel-butler.com)
 - ✍️ [cpato.dev](https://cpato.dev)
-- 💼 [LinkedIn](https://www.linkedin.com/in/dabutler89)
+- 💼 [LinkedIn](https://www.linkedin.com/in/dbutlercpa/)
+- 📧 hi@daniel-butler.com
